@@ -1,2 +1,2 @@
-# ViewBot
-ViewBot project
+# SeaFrog
+SeaFrog project
